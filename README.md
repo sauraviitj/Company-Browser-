@@ -8,7 +8,7 @@ This project generates professional, one-paragraph company brochures using conte
 - 🧠 Ollama (local models like LLaMA, Mistral, Phi)
 
 ---
-
+![alt text](https://github.com/sauraviitj/Company-Browser-/blob/main/Company%20Browser%20and%20brochure.png?raw=true)
 ## 🚀 Features
 
 - 🌐 Scrapes company websites using `requests` and `BeautifulSoup`
@@ -19,4 +19,4 @@ This project generates professional, one-paragraph company brochures using conte
 - 🔌 Pluggable architecture for switching between LLMs easily
 
 ---
-## Huge Shout out to ED Tonners Course LLM Engineering https://www.udemy.com/share/10bQ953@q-uIedUPcxeh-iNlLnZSeDUUaWC40KRMGNdeGd-o2Z1KU7k9icX_uUDpXogDcjzVlw==/ 
+# Huge Shout out to ED Tonners Course LLM Engineering 
