@@ -19,3 +19,4 @@ This project generates professional, one-paragraph company brochures using conte
 - 🔌 Pluggable architecture for switching between LLMs easily
 
 ---
+## Huge Shout out to ED Tonners Course LLM Engineering https://www.udemy.com/share/10bQ953@q-uIedUPcxeh-iNlLnZSeDUUaWC40KRMGNdeGd-o2Z1KU7k9icX_uUDpXogDcjzVlw==/ 
